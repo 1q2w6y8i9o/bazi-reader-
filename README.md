@@ -39,7 +39,7 @@ bazhi-reader/
 │   ├── tiangan.json   # 十天干属性、五行、生克规则
 │   ├── dizhi.json     # 十二地支、藏干、节气、刑冲合害
 │   ├── shishen.json   # 十神定义、类象、优劣势解读
-│   └── dayun.json     # 大运排法与起运规则
+│   └── dayunliunian.json     # 大运排法与起运规则
 └── templates/         # 输出模板
     └── report.md      # 解读报告输出模板
 ```
